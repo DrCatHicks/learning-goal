@@ -98,19 +98,9 @@ Psychological scientist studying software teams and technology work, author, pub
 
 Duckworth, A. L., Grant, H., Loew, B., Oettingen, G., & Gollwitzer, P. M. (2011). Self‐regulation strategies improve self‐discipline in adolescents: Benefits of mental contrasting and implementation intentions. Educational Psychology, 31(1), 17-26.
 
-Gawrilow, C., & Gollwitzer, P. M. (2008). Implementation intentions facilitate response inhibition in children with ADHD. Cognitive Therapy and Research, 32(2), 261-280.
-
-Gawrilow, C., Gollwitzer, P. M., & Oettingen, G. (2011a). If-then plans benefit delay of gratification performance in children with and without ADHD. Cognitive Therapy and Research, 35, 442-455.
-
-Gawrilow, C., Gollwitzer, P. M., & Oettingen, G. (2011b). If-then plans benefit executive functions in children with ADHD. Journal of Social and Clinical Psychology, 30(6), 616-646.
-
-Gawrilow, C., Morgenroth, K., Schultz, R., Oettingen, G., & Gollwitzer, P. M. (2013). Mental contrasting with implementation intentions enhances self-regulation of goal pursuit in schoolchildren at risk for ADHD. Motivation and Emotion, 37, 134-145.
-
 Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. American Psychologist, 54(7), 493.
 
 Gollwitzer, P. M. (2014). Weakness of the will: Is a quick fix possible? Motivation and Emotion, 38(3), 305-322.
-
-Gucciardi, D. F., Ntoumanis, N., Noetel, M., & Dietrich, J. (2023). The (over)use of SMART goals for physical activity promotion: A narrative review and critique. Health Psychology Review.
 
 Harkin, B., Webb, T. L., Chang, B. P., et al. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198-229.
 
