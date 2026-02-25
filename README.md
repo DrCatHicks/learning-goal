@@ -1,6 +1,6 @@
 # Learning Goal: A Claude Code Skill for Structured Goal Setting with Mental Contrasting
 
-This skill guides you through a structured, interactive goal-setting exercise grounded in Mental Contrasting with Implementation Intentions (MCII), a self-regulation strategy supported by meta-analytic evidence that when used as a psychological intervention, this exercise can improve goal commitment and follow-through, decrease stress, and increase engagement and motivation. The exercise takes about 10-15 minutes and produces a concrete goal card you can keep and revisit.
+This skill guides you through semi-structured, interactive goal-setting using the technique of in Mental Contrasting with Implementation Intentions (MCII), an evidence-based psychological exercise that draws on a self-regulation strategy to improve learning motivation and follow-through, decrease stress, and increase engagement and persistence. The exercise takes about 10-15 minutes and produces a concrete learning goal card you can keep, revisit, and reference in your agentic coding projects.
 
 ## Installation
 
@@ -22,9 +22,9 @@ For more on Claude Code plugins, see the [plugin documentation](https://docs.cla
 
 ## Why You Might Want to Experiment with This Skill
 
-Most people believe that they know their goals for learning. But in practice, many learning goals fail not because people don't want to achieve them, but because the goals themselves are underspecified, disconnected from real obstacles, and unsupported by concrete plans for what to do when things get hard. This pattern undermines our motivation, and can lead us to struggle when we face friction.
+Most people believe that their learning goals are obvious. But in practice, people often fail to achieve learning goals not for lack of desire to achieve them, but because the goals themselves are underspecified, and when we encounter real obstacles in our lives, we often lack concrete plans that cue us how to work toward our goals when things get hard. This pattern undermines learning progress.
 
-However, the gap between wanting to learn something and actually following through on learning has well-evidenced interventions in empirical psychology. This skill experiments with helping you work through one goal-setting intervention — MCII — inside of your existing workflow. Using this Skill, Claude will walks you through through a short interactive coached exercise that helps you get specific about what you want to learn, visualize why it matters, surface a few of the real obstacles that are most likely to get in your way, and build concrete and actionable if-then plans that help you turn obstacles into action triggers.
+However, closing the gap between wanting to learn something and actually following through on learning can be made easier by well-evidenced interventions in empirical psychology. This Learning Goal Skill creates an interactive scaffold for you to work through one such intervention, the MCII. Claude will walk you through through a short interactive coached exercise that encourages specific goals about what you want to learn, visualizing how the goal connects to meaningful change in your life, surfacing a few of the real obstacles that are most likely to get in your way, and building concrete and actionable if-then plans that help you turn obstacles into action triggers.
 
 ## How It Works
 
@@ -34,7 +34,7 @@ The exercise is conversational and interactive, and intended to force you to do 
 
 ### The Exercise
 
-The exercise moves through these steps, one at a time:
+The exercise moves through these key steps:
 
 1. **Set a learning goal.** Name a specific skill or area you want to grow in. Claude should help you sharpen vague goals into concrete ones without rewriting them for you.
 
@@ -42,19 +42,23 @@ The exercise moves through these steps, one at a time:
 
 3. **Visualize the outcome.** Briefly describe why this goal matters to you and what changes when you achieve it. Mental contrasting requires pairing a desired future with present reality, and this step establishes the desired future.
 
-4. **Identify obstacles.** You describe real, concrete situations where you'd realistically face obstacles to pursuing your goal. Claude will (hopefully) not suggest obstacles for you. Research shows that specific, real and self-generated obstacles activate stronger cue-response associations, which is the mechanism that makes the intervention work.
+4. **Identify obstacles.** Describe real, concrete situations where you'd realistically face obstacles to pursuing your goal. Claude should not suggest obstacles for you. Specific, real and self-generated obstacles activate stronger cue-response associations, which is the mechanism that makes the intervention effective.
 
-5. **Build if-then plans.** For each obstacle, you will draft a specific if-then plan: "If [obstacle/situation], then I will [specific action]." 
+5. **Build if-then plans.** For each obstacle, Claude prompts you to draft a specific if-then plan: "If [obstacle/situation], then I will [specific action]." 
 
-6. **Reaffirm or adjust.** After confronting obstacles honestly, does the goal still feel right? Adjusting a goal based on honest reflection is good self-regulation, not failure.
+6. **Reaffirm or adjust.** After confronting a few likely obstacles, adjust your goal if needed or affirm if it still feels right. 
 
-7. **Produce a goal card.** Claude creates a markdown file summarizing your goal, why it matters, your if-then plans, and your first step. This is something you can pin to your project, revisit, or share.
+7. **Produce a learning goal card.** Claude creates a markdown file summarizing your learning goal, why it matters, your if-then plans, and your first step. This is something you can pin to your project, revisit, or share.
 
 ## Pairing with Learning Opportunities
 
-This skill is designed to be independent but pairs naturally with [Learning Opportunities](https://github.com/DrCatHicks/learning-opportunities), a separate Claude Code skill for integrating deliberate practice exercises into agentic coding workflows. 
+This skill is designed to be independent but pairs naturally with [Learning Opportunities](https://github.com/DrCatHicks/learning-opportunities), a separate Claude Code skill for integrating deliberate practice exercises into agentic coding workflows. You could: 
 
-The two skills serve different functions in the same learning ecosystem. Learning Goal helps you define *what* you're trying to learn and build a motivational plan to persist. Learning Opportunities helps you practice *how* to learn by embedding retrieval, generation, and reflection exercises into your project work. Together, a goal card produced by this skill can inform the learning opportunities Claude offers during your coding sessions, so that Claude already knows what you're working toward.
+- Generate multiple learning goal cards and create a learning goal library, which you use to inform goal-relevant learning opportunities Claude offers during your coding sessions
+- Create a new learning goal at the beginning of every week, and assess whether they change over a longer period of time
+- Swap cool learning goal cards with your friends like pokemon (no not really but wouldn't that be cute)
+
+You can think about these two skills as serving different but mutually-supportive functions in your learning strategy. Learning oals help you commit to *what* you're trying to learn and build a motivational plan to persist. Learning opportunities help you practice *how* to learn by embedding retrieval, generation, and reflection exercises into your project work. 
 
 You can use either skill on its own. They are not dependent on each other.
 
