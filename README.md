@@ -20,7 +20,7 @@ This repository is a [Claude Code plugin marketplace](https://docs.claude.com/en
 
 For more on Claude Code plugins, see the [plugin documentation](https://docs.claude.com/en/docs/claude-code/plugins).
 
-## Why Try This Skill
+## Why You Might Want to Experiment with This Skill
 
 Most people believe that they know their goals for learning. But in practice, many learning goals fail not because people don't want to achieve them, but because the goals themselves are underspecified, disconnected from real obstacles, and unsupported by concrete plans for what to do when things get hard. This pattern undermines our motivation, and can lead us to struggle when we face friction.
 
