@@ -18,7 +18,7 @@ Vague goals ("get better at Python") don't direct behavior. Specific goals ident
 
 ### Measurable
 
-Measurable doesn't have to mean numeric. It means there's something observable — a project completed, a task performed independently, a concept explained clearly. The point is that the learner can recognize when they've made progress rather than relying on a vague sense of improvement.
+Measurable can be expressed in quantitative measures, doesn't have to mean numeric. It means there's something observable, which could be a project completed, a task performed independently, or a concept explained clearly. The point is that the learner can recognize when they've made progress rather than relying on a vague sense of improvement.
 
 **Probing questions:** When you accomplish this, what will be different that you could see or show someone? How would you know you're halfway there?
 
@@ -26,21 +26,27 @@ Measurable doesn't have to mean numeric. It means there's something observable �
 
 ### Achievable
 
-Goals should stretch but not break. If a goal is far beyond the learner's current skill, help them scope a meaningful first milestone rather than abandoning the ambition. The research on mental contrasting shows that goals perceived as achievable generate stronger commitment — goals that feel impossible produce disengagement, not motivation.
+Goals should stretch someone's abilities but not require extraordinary achievement. If a goal is far beyond the learner's current skill, help them scope a meaningful first milestone rather than abandoning the ambition. The research on mental contrasting shows that goals perceived as achievable generate stronger commitment, whereas goals that feel impossible produce disengagement, not motivation.
 
 **Probing questions:** Does this feel like a stretch you can make? What would a realistic version look like given your current commitments? What's the smallest version of this goal that would still matter to you?
 
+**Weak → stronger:** "Master distributed systems architecture" → "Design and implement one communication pattern in my current project so I understand the tradeoffs before tackling the broader system."
+
 ### Relevant
 
-Goals that connect to something the learner actually cares about — their work, a project, their identity, their autonomy — persist longer than goals driven by external "should." A learner who says "I should learn Kubernetes" is in a different motivational position than one who says "I want to understand deployment well enough to stop being blocked by it." Help learners find the want underneath the should.
+Goals that connect to something the learner actually cares about, like their work, a project, their identity, their autonomy, persist longer than goals driven by external obligations and extrinsic motivation. The research on intrinsic motivation shows that a stronger sense of how goals achieve larger priorities and agendas helps people stay committed to their goals.
 
 **Probing questions:** Why this goal and not something else? How does this connect to what you're working on or where you want to go? What would change for you if you had this skill?
 
+**Weak → stronger:** "Keep learning python because I feel like I should" → "Keep learning python because it will open up new opportunities for me to grow as a developer and take on more interesting projects"
+
 ### Time-bound
 
-A timeframe makes a goal concrete and creates a natural point for self-assessment. The purpose is not pressure — it's tangibility. Open-ended goals ("someday I'll learn Rust") lack the urgency that supports follow-through. The timeframe should be realistic given the scope.
+A timeframe makes a goal concrete and creates a stronger cadence for self-assessment and reflection on progress. Open-ended goals ("someday I'll learn Rust") lack the urgency that supports follow-through, whereas committing to a timeline for a goal helps them to avoid mental vagueness and set real check-ins for their progress.
 
 **Probing questions:** What timeframe feels right — a week, a month, a quarter? When would you want to check in with yourself on progress? Is there a natural deadline like a project start or a review cycle?
+
+**Weak → stronger:** "Learn Rust for as long as it takes" → "Spend the next four weeks working through Rust fundamentals, then check in with myself before the new project kicks off in March."
 
 ---
 

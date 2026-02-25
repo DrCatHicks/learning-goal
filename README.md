@@ -60,15 +60,15 @@ This skill is designed to be independent but pairs naturally with [Learning Oppo
 
 You can think about these two skills as serving different but mutually-supportive functions in your learning strategy. Learning oals help you commit to *what* you're trying to learn and build a motivational plan to persist. Learning opportunities help you practice *how* to learn by embedding retrieval, generation, and reflection exercises into your project work. 
 
-You can use either skill on its own. They are not dependent on each other.
-
 ## The Science Behind It
 
-This exercise is based on Mental Contrasting with Implementation Intentions (MCII), a self-regulation strategy developed by Oettingen and Gollwitzer. The core insight is that positive visualization alone — just imagining success — can actually reduce goal pursuit by satisfying the motivational need without producing action. Mental contrasting corrects this by pairing the desired future with an honest assessment of present obstacles, creating stronger commitment when the goal is feasible.
+This exercise is based on Mental Contrasting with Implementation Intentions (MCII), a self-regulation strategy developed by Oettingen and Gollwitzer. The core insight is that positive visualization alone (such as simply imagining how great it will be to learn something) can actually reduce our goal pursuit by making us feel like we've achieved our motivational needs without genuinely producing action. The exercise has two key components, and a combination is more effective than either technique alone. 
 
-Implementation intentions — the if-then plans — work by automating the link between a situational cue and a planned response. Instead of relying on in-the-moment willpower, you've already decided what to do when the obstacle appears. The research shows these plans create cue-response associations that operate efficiently even when cognitive resources are depleted. The combination is more effective than either technique alone. 
+1) Mental contrasting helps us correct this by pairing the desired future with an honest assessment of our likely obstacles, fostering a stronger commitment particularly when our goal is well-specified and seems feasible.
 
-See PRINCIPLES.md for a full discussion. 
+2) Implementation intentions (which are set by if-then plans) help us strengthen the link between a situational cue and our previously planned response. Instead of relying on in-the-moment willpower, if-then plans create cue-response associations that help us operate efficiently even when cognitive resources are depleted and alternatives are tempting.
+
+See PRINCIPLES.md for more details and references you might want to draw on to refine this Skill. 
 
 ## Customization
 
