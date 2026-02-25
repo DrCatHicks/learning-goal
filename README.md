@@ -74,18 +74,22 @@ See PRINCIPLES.md for more details and references you might want to draw on to r
 
 ## Customization
 
-This skill can be adapted to your context. You might want to:
+You can consider customizing this Skill to your own learning needs. 
+You might want to:
 
-- Save your goal card to your project root and reference it in your CLAUDE.md so Claude has your learning goal in context during coding sessions
-- Pair it with the Learning Opportunities skill so Claude can connect practice exercises to your stated goals
+- Cue Claude with your level of expertise and experience to get more personalized feedback
+- Weight specific parts of the exercise toward spending more time with what you personally struggle with. For instance, if you feel well practiced in setting clear initial SMART goals, you could customize this Skill to spend more time developing if-then plans
+- Save your learning goal card to your project root and reference it in your CLAUDE.md so Claude has your learning goal in context during coding sessions within specific projects
+- Pair it with the Learning Opportunities skill so Claude can connect practice exercises to your stated goals. 
 - Set up a recurring check-in by revisiting your goal card periodically ("read my goal card and help me reflect on progress")
-- Adapt it to non-technical learning goals — the psychological mechanism is domain-general and works for writing, design, leadership, communication, or any skill development context
+- Adapt it to non-technical learning goals — the psychological mechanism is domain-general and has been tested for benefits in writing, design, leadership, communication, or other skill development contexts, even stress reduction goals
+- Share learning goals across a team to help each other identify opportunities to exercise new skills
 
 ## Background
 
-This skill was developed and adapted by [Cat Hicks](https://www.drcathicks.com/) from an initial MCII intervention adaptation by [John Flournoy](http://johnflournoy.science/), and was informed by our work with software teams and across hundreds of people learning technical skills in their real workplaces. 
+This skill was developed and adapted by [Cat Hicks](https://www.drcathicks.com/) from an initial MCII intervention adaptation by [John Flournoy](http://johnflournoy.science/), and was informed by our work with software teams. We have tested a version of the MCII exercise across hundreds of people learning technical skills in their real workplaces, and found that it measurably increased learners' behavioral plans to learn. 
 
-In [research with thousands of developers](https://osf.io/preprints/psyarxiv/2gej5_v2), we've found that a strong value and commitment to learning predicts that developers feel less threat, worry, and anxiety when imagining needing to adjust to agentic coding. Learning culture also predicts increases in team effectiveness overall, not just individual productivity. Goal setting is a foundational part of that learning culture, and can help individual developers see tangible progress in their learning journeys. For more about metacognition and learning during AI, [see Cat's piece here](https://www.fightforthehuman.com/cognitive-helmets-for-the-ai-bicycle-part-1/).
+In further [research with thousands of developers](https://osf.io/preprints/psyarxiv/2gej5_v2), we've found that a strong value and commitment to learning is associated with developers feeling less threat, worry, and anxiety when imagining needing to adjust to agentic coding. Learning culture also predicts increases in team effectiveness overall, not just individual productivity. Practicing learning goal setting can encourage committing to a learning culture, and can help individual developers see tangible progress in their learning journeys. Sharing learning goals on a team level can increase teams' commitment to meeting their developers' learning needs. For more about metacognition and learning during AI, [see Cat's piece here](https://www.fightforthehuman.com/cognitive-helmets-for-the-ai-bicycle-part-1/).
 
 I'd love to know if you find this useful and what you learn! Sharing open science resources helps researchers like me create more things to help software teams. I always appreciate a shout-out or a share, which helps more people learn about the psychology of software teams. Get updates and more at Cat's newsletter: [Fight for the Human](https://www.fightforthehuman.com/)
 
