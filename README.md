@@ -24,13 +24,11 @@ For more on Claude Code plugins, see the [plugin documentation](https://docs.cla
 
 Most people believe that they know their goals for learning. But in practice, many learning goals fail not because people don't want to achieve them, but because the goals themselves are underspecified, disconnected from real obstacles, and unsupported by concrete plans for what to do when things get hard. This pattern undermines our motivation, and can lead us to struggle when we face friction.
 
-This is especially true in technical learning. Developers routinely set goals like "learn Rust" or "get better at system design." These are more wishes than goals; they're genuine but don't give you anything to hold onto when Friday afternoon arrives, you're tired, and the tutorial feels pointless. However, this gap between wanting to learn something and actually following through on learning it is one of the most studied problems in motivational psychology, and it has well-evidenced interventions.
-
-This skill experiments with bringing one goal-setting intervention — MCII — into your existing workflow. It walks you through through a short interactive coached exercise that helps you get specific about what you want to learn, visualize why it matters, surface the real obstacles that will get in your way, and build concrete plans that help you turn obstacles into action triggers.
+However, the gap between wanting to learn something and actually following through on learning has well-evidenced interventions in empirical psychology. This skill experiments with helping you work through one goal-setting intervention — MCII — inside of your existing workflow. Using this Skill, Claude will walks you through through a short interactive coached exercise that helps you get specific about what you want to learn, visualize why it matters, surface a few of the real obstacles that are most likely to get in your way, and build concrete and actionable if-then plans that help you turn obstacles into action triggers.
 
 ## How It Works
 
-Claude will offer this exercise when you make an explicit learning goal request ("I want to get better at X," "help me set a learning goal," "how should I approach learning this?") or when you're starting a new project and describing what you want to build. Claude will not offer this mid-task or if you've already declined this session.
+Claude offers this exercise when you make an explicit learning goal request ("I want to get better at X," "help me set a learning goal," "how should I approach learning this?") or when you're starting a new project and describing what you want to build. Claude will not offer this mid-task or if you've already declined this session. 
 
 The exercise is conversational and interactive, and intended to force you to do the thinking. This design is aligned with research that shows self-generated goals and obstacles create stronger mental associations than ones suggested to you.
 
@@ -81,9 +79,9 @@ This skill can be adapted to your context. You might want to:
 
 This skill was developed and adapted by [Cat Hicks](https://www.drcathicks.com/) and [John Flournoy](http://johnflournoy.science/) based on the MCII framework, informed by our work with software teams and across hundreds of people learning technical skills in their real workplaces. 
 
-The broader context: in [research with thousands of developers](https://osf.io/preprints/psyarxiv/2gej5_v2), we've found that a strong value and commitment to learning predicts that developers feel less threat, worry, and anxiety when imagining needing to adjust to agentic coding. Learning culture also predicts increases in team effectiveness overall, not just individual productivity. Goal setting is a foundational part of that learning culture, and can help individual developers see tangible progress in their learning journeys.
+In [research with thousands of developers](https://osf.io/preprints/psyarxiv/2gej5_v2), we've found that a strong value and commitment to learning predicts that developers feel less threat, worry, and anxiety when imagining needing to adjust to agentic coding. Learning culture also predicts increases in team effectiveness overall, not just individual productivity. Goal setting is a foundational part of that learning culture, and can help individual developers see tangible progress in their learning journeys.
 
-I'd love to know if you find this useful and what you learn! Sharing open science resources helps researchers like me create more things to help software teams. I always appreciate a shout-out or a share, which helps more people learn about the psychology of software teams. Get updates and more at my newsletter: [Fight for the Human](https://www.fightforthehuman.com/)
+I'd love to know if you find this useful and what you learn! Sharing open science resources helps researchers like me create more things to help software teams. I always appreciate a shout-out or a share, which helps more people learn about the psychology of software teams. Get updates and more at Cat's newsletter: [Fight for the Human](https://www.fightforthehuman.com/)
 
 ## Author
 
