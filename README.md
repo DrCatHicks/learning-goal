@@ -1,6 +1,6 @@
 # Learning Goal: A Claude Code Skill for Structured Goal Setting with Mental Contrasting
 
-This skill guides you through a structured, interactive goal-setting exercise grounded in Mental Contrasting with Implementation Intentions (MCII), a self-regulation strategy with consistent meta-analytic support for improving goal commitment and follow-through. The exercise takes about 10-15 minutes and produces a concrete goal card you can keep and revisit.
+This skill guides you through a structured, interactive goal-setting exercise grounded in Mental Contrasting with Implementation Intentions (MCII), a self-regulation strategy supported by meta-analytic evidence that when used as a psychological intervention, this exercise can improve goal commitment and follow-through, decrease stress, and increase engagement and motivation. The exercise takes about 10-15 minutes and produces a concrete goal card you can keep and revisit.
 
 ## Installation
 
@@ -120,7 +120,7 @@ Inzlicht, M., Werner, K. M., Briskin, J. L., & Roberts, B. W. (2021). Integratin
 
 Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. American Psychologist, 57(9), 705-717.
 
-McEwan, D., Harden, S. M., Zumbo, B. D., Sylvester, B. D., Kaulius, M., Ruissen, G. R., Dowd, A. J., & Beauchamp, M. R. (2016). The effectiveness of multi-component goal setting interventions for changing physical activity behaviour: A systematic review and meta-analysis. Health Psychology Review, 10(1), 67-88.
+McEwan, D., Harden, S. M., Zumbo, B. D., Sylvester, B. D., Kaulius, M., Ruissen, G. R., ... & Beauchamp, M. R. (2016). The effectiveness of multi-component goal setting interventions for changing physical activity behaviour: a systematic review and meta-analysis. Health psychology review, 10(1), 67-88.
 
 Oettingen, G. (2012). Future thought and behaviour change. European Review of Social Psychology, 23(1), 1-63.
 
@@ -128,7 +128,7 @@ Oettingen, G., & Gollwitzer, P. M. (2010). Strategies of setting and implementin
 
 Pietsch, S., Riddell, H., Semmler, C., Ntoumanis, N., & Gucciardi, D. F. (2024). SMART goals are no more effective for creative performance than do-your-best goals or non-specific, exploratory 'open goals.' Educational Psychology, 44, 946-962.
 
-Toli, A., Webb, T. L., & Hardy, G. E. (2016). Does forming implementation intentions help people with mental health problems to achieve goals? A meta-analysis of experimental studies with clinical and analogue samples. British Journal of Clinical Psychology, 55(1), 69-90.
+Toli, A., Webb, T. L., & Hardy, G. E. (2016). Does forming implementation intentions help people with mental health problems to achieve goals? A meta‐analysis of experimental studies with clinical and analogue samples. British Journal of Clinical Psychology, 55(1), 69-90.
 
 Wang, G., Wang, Y., & Gai, X. (2021). A meta-analysis of the effects of mental contrasting with implementation intentions on goal attainment. Frontiers in Psychology, 12, 565202.
 
