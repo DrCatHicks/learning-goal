@@ -22,9 +22,11 @@ For more on Claude Code plugins, see the [plugin documentation](https://docs.cla
 
 ## Why You Might Want to Experiment with This Skill
 
-Most people believe that their learning goals are obvious. But in practice, people often fail to achieve learning goals not for lack of desire to achieve them, but because the goals themselves are underspecified, and when we encounter real obstacles in our lives, we often lack concrete plans that cue us how to work toward our goals when things get hard. This pattern undermines learning progress.
+Across my research and qualitative interviews with people doing technical work, one of the top concerns I've heard from practitioners is that using AI will stifle their ability to learn and decrease the amount of active learning that happens in their workplaces. This Skill helps you build back a protective habit into your day: developing a concrete learning goal with a plan to recommit to it when encountering obstacles.
 
-However, closing the gap between wanting to learn something and actually following through on learning can be made easier by well-evidenced interventions in empirical psychology. This Learning Goal Skill creates an interactive scaffold for you to work through one such intervention, the MCII. Claude will walk you through through a short interactive coached exercise that encourages specific goals about what you want to learn, visualizing how the goal connects to meaningful change in your life, surfacing a few of the real obstacles that are most likely to get in your way, and building concrete and actionable if-then plans that help you turn obstacles into action triggers.
+Most people believe that their personal learning goals will be obvious and easily remembered. But in practice, people often fail to achieve learning goals not for lack of desire to achieve them, but because the goals themselves are underspecified. Because of this, when we encounter real obstacles in our lives, we often lack concrete plans that cue us how to work toward our goals when things get hard. This pattern can undermine learning progress and sap our motivation.
+
+Closing the gap between wanting to learn something and actually following through on learning can be made more likely by using brief interventions developed by empirical psychology to help you build better "virtuous cycle" habits. This Learning Goal Skill creates an interactive scaffold for you to work through one such intervention, the MCII. Claude will walk you through through a short interactive coached exercise that encourages specific goals about what you want to learn, visualizing how the goal connects to meaningful change in your life, surfacing a few of the real obstacles that are most likely to get in your way, and building concrete and actionable if-then plans that help you turn obstacles into action triggers.
 
 ## How It Works
 
@@ -81,9 +83,9 @@ This skill can be adapted to your context. You might want to:
 
 ## Background
 
-This skill was developed and adapted by [Cat Hicks](https://www.drcathicks.com/) and [John Flournoy](http://johnflournoy.science/) based on the MCII framework, informed by our work with software teams and across hundreds of people learning technical skills in their real workplaces. 
+This skill was developed and adapted by [Cat Hicks](https://www.drcathicks.com/) from an initial MCII intervention adaptation by [John Flournoy](http://johnflournoy.science/), and was informed by our work with software teams and across hundreds of people learning technical skills in their real workplaces. 
 
-In [research with thousands of developers](https://osf.io/preprints/psyarxiv/2gej5_v2), we've found that a strong value and commitment to learning predicts that developers feel less threat, worry, and anxiety when imagining needing to adjust to agentic coding. Learning culture also predicts increases in team effectiveness overall, not just individual productivity. Goal setting is a foundational part of that learning culture, and can help individual developers see tangible progress in their learning journeys.
+In [research with thousands of developers](https://osf.io/preprints/psyarxiv/2gej5_v2), we've found that a strong value and commitment to learning predicts that developers feel less threat, worry, and anxiety when imagining needing to adjust to agentic coding. Learning culture also predicts increases in team effectiveness overall, not just individual productivity. Goal setting is a foundational part of that learning culture, and can help individual developers see tangible progress in their learning journeys. For more about metacognition and learning during AI, [see Cat's piece here](https://www.fightforthehuman.com/cognitive-helmets-for-the-ai-bicycle-part-1/).
 
 I'd love to know if you find this useful and what you learn! Sharing open science resources helps researchers like me create more things to help software teams. I always appreciate a shout-out or a share, which helps more people learn about the psychology of software teams. Get updates and more at Cat's newsletter: [Fight for the Human](https://www.fightforthehuman.com/)
 
