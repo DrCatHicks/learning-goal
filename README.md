@@ -83,7 +83,7 @@ In [research with thousands of developers](https://osf.io/preprints/psyarxiv/2ge
 
 I'd love to know if you find this useful and what you learn! Sharing open science resources helps researchers like me create more things to help software teams. I always appreciate a shout-out or a share, which helps more people learn about the psychology of software teams. Get updates and more at Cat's newsletter: [Fight for the Human](https://www.fightforthehuman.com/)
 
-## Author
+## Authors
 
 **Dr. Cat Hicks**  
 Psychological scientist studying software teams and technology work, author, public speaker, research architect, and empirical interventionist.
@@ -91,6 +91,11 @@ Psychological scientist studying software teams and technology work, author, pub
 - Website: [drcathicks.com](https://drcathicks.com)
 - Consulting: [catharsisinsight.com](https://www.catharsisinsight.com/)
 - Upcoming Book: *Psychology of Software Teams* (May 2026)
+
+**Dr. John Flournoy**
+Research scientist with a focus on statistical methodology, psychometrics, and research computing infrastructure.
+
+Website: [johnflournoy.science](https://johnflournoy.science/)
 
 ## Sources
 
