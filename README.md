@@ -1,6 +1,6 @@
 # Learning Goal: A Claude Code Skill for Structured Goal Setting with Mental Contrasting
 
-This skill guides you through semi-structured, interactive goal-setting using the technique of in Mental Contrasting with Implementation Intentions (MCII), an evidence-based psychological exercise that draws on a self-regulation strategy to improve learning motivation and follow-through, decrease stress, and increase engagement and persistence. The exercise takes about 10-15 minutes and produces a concrete learning goal card you can keep, revisit, and reference in your agentic coding projects.
+This skill guides you through semi-structured, interactive goal-setting using the technique of Mental Contrasting with Implementation Intentions (MCII), an evidence-based psychological exercise that draws on a self-regulation strategy to improve learning motivation and follow-through, decrease stress, and increase engagement and persistence. The exercise takes about 10-15 minutes and produces a concrete learning goal card you can keep, revisit, and reference in your agentic coding projects.
 
 ## Installation
 
