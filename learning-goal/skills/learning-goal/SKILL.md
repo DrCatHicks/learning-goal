@@ -70,7 +70,7 @@ Do not rewrite their goal for them. Help them sharpen it in their own words.
 
 Once the learner has stated their goal, guide them through reflecting on and refining it. Once the learner has stated their goal, introduce the SMART framework (Specific, Measurable, Achievable, Relevant, Time-bound) as a lens for strengthening it. 
 
-Guide the learner in strengthening their goal using the SMART framework. Reference PRINCIPLES.md for detailed probing questions on each dimension. Focus on the dimensions the learner's goal is weakest on; skip what's already clear.
+Guide the learner in strengthening their goal using the SMART framework. Reference [PRINCIPLES.md](https://github.com/DrCatHicks/learning-goal/blob/main/learning-goal/skills/learning-goal/resources/PRINCIPLES.md) for detailed probing questions on each dimension. Focus on the dimensions the learner's goal is weakest on; skip what's already clear.
 
 Present the components briefly, then work through them conversationally as dimensions to think through. Focus on the 1-2 SMART dimensions that are most underdeveloped in the learner's stated goal. Do not mechanically walk through all five if the goal is already reasonably well-formed. Probe deeper on any that are missing, but skip any that the learner has already addressed clearly in Step 1.
 
