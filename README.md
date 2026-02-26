@@ -60,7 +60,7 @@ This skill is designed to be independent but pairs naturally with [Learning Oppo
 - Create a new learning goal at the beginning of every week, and assess whether they change over a longer period of time
 - Swap cool learning goal cards with your friends like pokemon (no not really but wouldn't that be cute)
 
-You can think about these two skills as serving different but mutually-supportive functions in your learning strategy. Learning oals help you commit to *what* you're trying to learn and build a motivational plan to persist. Learning opportunities help you practice *how* to learn by embedding retrieval, generation, and reflection exercises into your project work. 
+You can think about these two skills as serving different but mutually-supportive functions in your learning strategy. Learning goals help you commit to *what* you're trying to learn and build a motivational plan to persist. Learning opportunities help you practice *how* to learn by embedding retrieval, generation, and reflection exercises into your project work. 
 
 ## The Science Behind It
 
