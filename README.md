@@ -2,6 +2,8 @@
 
 This skill guides you through semi-structured, interactive goal-setting using the technique of Mental Contrasting with Implementation Intentions (MCII), an evidence-based psychological exercise that draws on a self-regulation strategy to improve learning motivation and follow-through, decrease stress, and increase engagement and persistence. The exercise takes about 10-15 minutes and produces a concrete learning goal card you can keep, revisit, and reference in your agentic coding projects.
 
+Pairs well with [Learning-Opportunities](https://github.com/DrCatHicks/learning-opportunities), a skill that uses an adaptive "dynamic textbook" approach to help you integrate science-based expertise building exercises while doing agentic coding.
+
 ## Installation
 
 This repository is a [Claude Code plugin marketplace](https://docs.claude.com/en/docs/claude-code/plugins). To install:
