@@ -1,0 +1,35 @@
+name: Package Skill
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create zip archive
+        run: |
+          if [ ! -d "learning-goal/skills/learning-goal" ]; then
+            echo "Error: expected directory learning-goal/skills/learning-goal not found"
+            exit 1
+          fi
+          cd learning-goal/skills
+          zip -r ../../learning-goal.zip learning-goal
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: release-${{ github.run_number }}
+          name: Release ${{ github.run_number }}
+          body: Packaged release of the learning-goal skill.
+          draft: false
+          prerelease: false
+          files: learning-goal.zip
