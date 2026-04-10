@@ -131,6 +131,8 @@ Oettingen, G. (2012). Future thought and behaviour change. European Review of So
 
 Oettingen, G., & Gollwitzer, P. M. (2010). Strategies of setting and implementing goals: Mental contrasting and implementation intentions.
 
+Pennycook, G., Costello, T. H., & Rand, D. G. (2026). Using Artificial Intelligence to Better Understand Human Intelligence. Current Directions in Psychological Science, 09637214261417960.
+
 Pietsch, S., Riddell, H., Semmler, C., Ntoumanis, N., & Gucciardi, D. F. (2024). SMART goals are no more effective for creative performance than do-your-best goals or non-specific, exploratory 'open goals.' Educational Psychology, 44, 946-962.
 
 Toli, A., Webb, T. L., & Hardy, G. E. (2016). Does forming implementation intentions help people with mental health problems to achieve goals? A meta‐analysis of experimental studies with clinical and analogue samples. British Journal of Clinical Psychology, 55(1), 69-90.
