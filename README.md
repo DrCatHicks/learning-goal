@@ -1,10 +1,12 @@
-# Learning Goal: A Claude Code Skill for Structured Goal Setting with Mental Contrasting
+# Learning Goal: A Skill for Structured Goal Setting with Mental Contrasting
 
 This skill guides you through semi-structured, interactive goal-setting using the technique of Mental Contrasting with Implementation Intentions (MCII), an evidence-based psychological exercise that draws on a self-regulation strategy to improve learning motivation and follow-through, decrease stress, and increase engagement and persistence. The exercise takes about 10-15 minutes and produces a concrete learning goal card you can keep, revisit, and reference in your agentic coding projects.
 
 Pairs well with [Learning-Opportunities](https://github.com/DrCatHicks/learning-opportunities), a skill that uses an adaptive "dynamic textbook" approach to help you integrate science-based expertise building exercises while doing agentic coding.
 
 ## Installation
+
+### Claude Code
 
 This repository is a [Claude Code plugin marketplace](https://docs.claude.com/en/docs/claude-code/plugins). To install:
 
@@ -21,6 +23,21 @@ This repository is a [Claude Code plugin marketplace](https://docs.claude.com/en
 3. Restart Claude Code to activate
 
 For more on Claude Code plugins, see the [plugin documentation](https://docs.claude.com/en/docs/claude-code/plugins).
+
+### GitHub Copilot CLI
+
+This repository is a [Copilot CLI plugin marketplace](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/plugins-marketplace). To install:
+
+1. Add the marketplace:
+   ```
+   copilot plugin marketplace add https://github.com/DrCatHicks/learning-goal.git
+   ```
+
+2. Install the plugin:
+   ```
+   copilot plugin install learning-goal@learning-goal
+   ```
+
 
 ## Why You Might Want to Experiment with This Skill
 
