@@ -1,8 +1,10 @@
 {
   "name": "learning-goal",
   "description": "A structured goal-setting exercise grounded in MCII research to help developers set concrete learning goals with if-then plans for follow-through.",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "license": "CC-BY-4.0",
   "author": {
     "name": "Dr. Cat Hicks"
-  }
+  },
+  "skills": "skills/"
 }

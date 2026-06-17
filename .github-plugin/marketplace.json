@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Goal-setting skill grounded in MCII research",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
@@ -14,12 +14,11 @@
       "description": "Structured goal-setting exercise using Mental Contrasting with Implementation Intentions",
       "version": "1.0.1",
       "author": {
-        "name": "Dr. Cat Hicks",
-        "email": "dr.cat.hicks@gmail.com"
+        "name": "Dr. Cat Hicks"
       },
       "source": "./learning-goal",
       "category": "learning",
-      "keywords": ["learning", "goals", "MCII", "skill-development"],
+      "tags": ["learning", "goals", "MCII", "skill-development"],
       "license": "CC-BY-4.0"
     }
   ]
