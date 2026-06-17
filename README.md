@@ -26,7 +26,7 @@ For more on Claude Code plugins, see the [plugin documentation](https://docs.cla
 
 ### GitHub Copilot CLI
 
-This repository is a [Copilot CLI plugin marketplace](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/plugins-marketplace). To install:
+This repository is also a [Copilot CLI plugin marketplace](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/plugins-marketplace). To install:
 
 1. Add the marketplace:
    ```
@@ -38,6 +38,7 @@ This repository is a [Copilot CLI plugin marketplace](https://docs.github.com/en
    copilot plugin install learning-goal@learning-goal
    ```
 
+For more on Copilot plugins, see the [plugin documentation](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/plugins-finding-installing).
 
 ## Why You Might Want to Experiment with This Skill
 
