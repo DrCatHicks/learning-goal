@@ -80,7 +80,7 @@ Present the components briefly, then work through them conversationally as dimen
 
 **Achievable.** Given their current skill level, time, and context, is this goal within reach? It should be challenging but possible. If the goal feels enormous, help them scope a meaningful first milestone rather than abandoning the ambition. Ask: "Does this feel like a stretch you can make? What would a realistic version of this look like?"
 
-**Relevant.** Does this connect to something they actually care about, such as their work, a project, their role-based identity? Goals that are "should" goals ("I should learn Kubernetes"") tend to lose to goals that are "want" goals ("I want to understand deployment well enough to stop being blocked by it""). Ask: "How does this connect to your larger priorities?"
+**Relevant.** Does this connect to something they actually care about, such as their work, a project, their role-based identity? Goals that are "should" goals ("I should learn Kubernetes") tend to lose to goals that are "want" goals ("I want to understand deployment well enough to stop being blocked by it"). Ask: "How does this connect to your larger priorities?"
 
 **Time-bound.** Goals should explicitly set a realistic timeframe, not to create pressure, but to make the goal more tangible and concrete. Ask: "What timeframe feels right for this? A week? A month? When would you want to check in with yourself on how it's going?"
 
