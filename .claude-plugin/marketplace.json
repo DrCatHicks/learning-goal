@@ -12,13 +12,15 @@
     {
       "name": "learning-goal",
       "description": "Structured goal-setting exercise using Mental Contrasting with Implementation Intentions",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
-        "name": "Dr. Cat Hicks"
+        "name": "Dr. Cat Hicks",
+        "email": "dr.cat.hicks@gmail.com"
       },
       "source": "./learning-goal",
       "category": "learning",
-      "tags": ["learning", "goals", "MCII", "skill-development"]
+      "keywords": ["learning", "goals", "MCII", "skill-development"],
+      "license": "CC-BY-4.0"
     }
   ]
 }
