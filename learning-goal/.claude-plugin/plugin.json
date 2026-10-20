@@ -6,5 +6,5 @@
   "author": {
     "name": "Dr. Cat Hicks"
   },
-  "skills": "skills/"
+  "skills": "./skills/"
 }
